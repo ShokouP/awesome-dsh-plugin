@@ -6173,6 +6173,7 @@ dsh plugin --profile web add dshmarket
 - [ShenpingDD/wooden-fish-dsh](https://github.com/ShenpingDD/wooden-fish-dsh) — 为 DeepSeek Harness Web 界面打造的电子木鱼桌宠。点击敲击、按天计数，设置页以日历热力图展示每日敲击与连续天数。
 - [shetengteng/dsh-lumina-tarot](https://github.com/shetengteng/dsh-lumina-tarot) — DeepSeek Harness 界面角落里可拖动的塔罗牌背。点一下抽牌，右击选四种牌阵，完整 78 张牌库，正逆位含义中英双语。解读只用真正抽到的牌。
 - [shinjiyu/holdem#dsh-plugin](https://github.com/shinjiyu/holdem/tree/main/dsh-plugin) — 连接 kuroneko.chat 德州扑克桌的 Host 工具：座位令牌、人控/托管切换、合法动作查询与行动循环（同一 GitHub 帐号一席）。
+- [ShokouP/dsh-tea-party-mode](https://github.com/ShokouP/dsh-tea-party-mode) — 角色茶话会 Agent 预设：和标准/极简/创造并列的会话模式，8 位大模型娘（DeepSeek 鲸鱼娘、ChatGPT 白龙娘、Claude、Gemini 猫娘、千问、Kimi、豆包、GLM）围桌语c，每句台词行首带该角色头像；默认零工具纯聊天，可选接 OpenAI 兼容后端让角色由对应厂商模型生成（未配置的角色由本模型自演）。
 - [Signalight/codex-to-dsh-pet#dsh-codex-pet](https://github.com/Signalight/codex-to-dsh-pet/tree/main/packages/dsh-codex-pet) — DSH 网页 GUI 实时桌宠：可把任何 Codex 桌宠图集（webp/png/gif，v1/v2 自动识别）转换为 DSH 中可拖拽的悬浮桌宠。支持拖拽/挥手/跳跃，v2 桌宠的眼睛实时追踪活动鼠标，随 agent 状态切换姿势；进度气泡反映工作状态；「设置 → 桌宠」图形界面可导入、切换与调整桌宠；内置一只原创示例桌宠（娜斯佳），用户桌宠存放在 ~/.dsh/pets。
 - [skiuniverse/dsh-running-liang](https://github.com/skiuniverse/dsh-running-liang) — 等待 Agent 回复时的恐龙快跑小游戏：常驻进度条从「梁子」冲向「梁圣」，折叠即暂停、任意键恢复。
 - [sknagato/dsh-plugin-fc-emulator](https://github.com/sknagato/dsh-plugin-fc-emulator) — 在 DSH Web 右下角挂悬浮球打开 FC/NES 游戏厅（fceumm），支持本地上传与自填 GitHub 在线库。
